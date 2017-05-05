@@ -1,0 +1,35 @@
+/* Stylesheet for Evidence 3 */
+
+html body {
+	vertical-align: top;
+	margin: 0;
+	padding: 0;
+	color:#FFFFFF ; /* Text Color */
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: normal; /* Weight for the text */
+	font-size: 20px;
+	background-color:#CD7E27
+}
+
+h1, h2, h3, h4, h5, h6 {
+	vertical-align: top;
+	color:#FFFFFF ; /* Color for headers */
+	font-weight: bold; /* Weight for headers */
+}
+
+header, section {
+	vertical-align: top;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+ul li {
+	vertical-align: top;
+	display: inline-block;
+	padding: 5px;
+}
+nav a {
+	font-family: 'Josefin Sans', sans-serif;
+	text-decoration: none;
+	color: #0A02CC; /* Color for the text on navigation */
+}
